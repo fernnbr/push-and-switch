@@ -5,9 +5,10 @@ Douglas Adams, The Hitchhiker’s Guide to the Galaxy
 
 ---
 
-# Welcome, Stranger (again). This is Push and Swap, but I prefer to call it Push and Switch 
+# Welcome, Stranger (again). 
+# This is Push and Swap, but I prefer to call it Push and Switch 
 
-We'll experience the existential crisis of sorting numbers with your hands tied behind your back. Weeeee... 
+_We'll experience the existential crisis of sorting numbers with your hands tied behind your back. Weeeee..._ 
 
 <div align="center">
 <p align="center">
