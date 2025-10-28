@@ -176,6 +176,51 @@ Stack operations are used in:
 ✅ You can explain your algorithm without crying _(hard task)_
 
 
+---
+
+# To Know More 
+
+### Linked Lists: Your Stack's Backbone
+
+Think of a linked list as a conga line at a party. Each person (node) holds hands with the person behind them, but they have no idea who's at the back of the line. Want to add someone? They jump in at the front! Want to remove someone? Snip the connection! Want to find the 50th person? Well... you gotta walk through all 49 people in front of them. It's efficient for some things, painfully slow for others—just like that friend who insists on "optimizing" the group's restaurant choice. 
+
+#### Why Linked Lists for Push_swap?
+
+**Dynamic Size:** You don't know how many numbers you'll get. Arrays require fixed size; linked lists grow and shrink beautifully.
+Efficient Stack Operations:
+
+- push = O(1) - Just add to the head
+- pop = O(1) - Just remove from the head
+- rotate = O(1) - Move head to tail (with tail pointer)
+
+### Error Handling: The Art of Saying "Nope"
+
+Error handling is like being a bouncer at an exclusive club. 
+"Not a number? NOPE.", 
+"Duplicate entry? NOPE.",
+"Integer overflow? NOPE.",
+"Empty argument? NOPE." 
+
+Your program needs to be that friend who politely but firmly tells people when they're being ridiculous, 
+except instead of saying "maybe you've had enough," you print Error\n to stderr and exit like a boss.
+
+# Memory Management: Don't Leak Like a Sieve
+
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXljMWI4aDZ2MDU4dmRrbmp0aHl3bWttaGhrdnY0dXpxaGZlamxvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BBkKEBJkmFbTG/giphy.gif">
+</p></figcaption>
+<p align="center">
+</p>
+</div>
+
+
+Memory management is like borrowing your friend's car. 
+You malloc (borrow it), you use it, and then you absolutely must free it (return it) when you're done. 
+
+Forget to free? 
+That's a memory leak—like borrowing cars and never returning them until you have 500 cars in your driveway and no one will lend you anything anymore. 
+Valgrind is that friend who keeps receipts and will 100% call you out on every unreturned car.
 
 # Now stop reading and start sorting! 
 
