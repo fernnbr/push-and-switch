@@ -19,8 +19,7 @@ _We'll experience the existential crisis of sorting numbers with your hands tied
 </div>
 
 
-### Imagine you have two stacks (let's call them a and b), a bunch of random integers, and a very specific set of operations. 
-### Your mission? Sort those numbers in ascending order using the minimum number of moves possible.
+### Imagine you have two stacks (let's call them a and b), a bunch of random integers, and a very specific set of operations. Your mission? Sort those numbers in ascending order using the minimum number of moves possible.
 
 
 <div align="center">
