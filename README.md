@@ -182,7 +182,16 @@ Stack operations are used in:
 
 ### Linked Lists: Your Stack's Backbone
 
-Think of a linked list as a conga line at a party. Each person (node) holds hands with the person behind them, but they have no idea who's at the back of the line. Want to add someone? They jump in at the front! Want to remove someone? Snip the connection! Want to find the 50th person? Well... you gotta walk through all 49 people in front of them. It's efficient for some things, painfully slow for others—just like that friend who insists on "optimizing" the group's restaurant choice. 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajUxenY0cGp4d2FkbTFveTFiamN0cDB0c3lvd2Z2aDlqMmc4aTh6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WVDydsqYteU5aLlliQ/giphy.gif">
+</p></figcaption>
+<p align="center">
+</p>
+</div>
+
+Think of a linked list as a conga line at a party. 
+
+Each person (node) holds hands with the person behind them, but they have no idea who's at the back of the line. Want to add someone? They jump in at the front! Want to remove someone? Snip the connection! Want to find the 50th person? Well... you gotta walk through all 49 people in front of them. It's efficient for some things, painfully slow for others—just like that friend who insists on "optimizing" the group's restaurant choice. 
 
 #### Why Linked Lists for Push_swap?
 
@@ -195,11 +204,19 @@ Efficient Stack Operations:
 
 ### Error Handling: The Art of Saying "Nope"
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWloMGg0ajMydWM3MGQ0bnh5YWkxYzEzZ2RmM3N1Zm05a3JxeHprYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NpL4D3Oc2bJUMAXF9P/giphy.gif">
+</p></figcaption>
+<p align="center">
+</p>
+</div>
+
 Error handling is like being a bouncer at an exclusive club. 
-"Not a number? NOPE.", 
-"Duplicate entry? NOPE.",
-"Integer overflow? NOPE.",
-"Empty argument? NOPE." 
+
+_"Not a number? NOPE."_, 
+_"Duplicate entry? NOPE."_,
+_"Integer overflow? NOPE."_,
+_"Empty argument? NOPE."_ 
 
 Your program needs to be that friend who politely but firmly tells people when they're being ridiculous, 
 except instead of saying "maybe you've had enough," you print Error\n to stderr and exit like a boss.
@@ -219,7 +236,7 @@ Memory management is like borrowing your friend's car.
 You malloc (borrow it), you use it, and then you absolutely must free it (return it) when you're done. 
 
 Forget to free? 
-That's a memory leak—like borrowing cars and never returning them until you have 500 cars in your driveway and no one will lend you anything anymore. 
+That's a memory leak. Like borrowing cars and never returning them until you have 500 cars in your driveway and no one will lend you anything anymore. 
 Valgrind is that friend who keeps receipts and will 100% call you out on every unreturned car.
 
 # Now stop reading and start sorting! 
