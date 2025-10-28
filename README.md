@@ -10,7 +10,7 @@ Douglas Adams, The Hitchhiker’s Guide to the Galaxy
 
 _We'll experience the existential crisis of sorting numbers with your hands tied behind your back. Weeeee..._ 
 
-<div align="center">
+
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFobHB6MG95emE2bGc1bnV0c3VuMGFndjdwM2xlYzk3ZHMyamtmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7LE0z2EEAiVCU/giphy.gif">
 </p></figcaption>
@@ -22,7 +22,7 @@ _We'll experience the existential crisis of sorting numbers with your hands tied
 ### Imagine you have two stacks (let's call them a and b), a bunch of random integers, and a very specific set of operations. Your mission? Sort those numbers in ascending order using the minimum number of moves possible.
 
 
-<div align="center">
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJrMXVsMXozOWI3dXdqMTR0OHF0dm4wbnYxeTRtbnUybm95d2FpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IymiszgmwwfB5K0/giphy.gif">
 </p></figcaption>
