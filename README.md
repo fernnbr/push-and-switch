@@ -166,10 +166,15 @@ Stack operations are used in:
 
 
 ✅ No memory leaks (valgrind is your friend)
+
 ✅ Handles all error cases gracefully
+
 ✅ Meets benchmark requirements
+
 ✅ Clean, readable code (Norm approved)
+
 ✅ You can explain your algorithm without crying _(hard task)_
+
 
 
 # Now stop reading and start sorting! 
