@@ -17,8 +17,10 @@ We'll experience the existential crisis of sorting numbers with your hands tied 
 </p>
 </div>
 
-Imagine you have two stacks (let's call them a and b), a bunch of random integers, and a very specific set of operations. 
-Your mission? Sort those numbers in ascending order using the minimum number of moves possible.
+
+### Imagine you have two stacks (let's call them a and b), a bunch of random integers, and a very specific set of operations. 
+### Your mission? Sort those numbers in ascending order using the minimum number of moves possible.
+
 
 <div align="center">
 <p align="center">
@@ -31,11 +33,11 @@ That means, basically, a puzzle game where you're given a pile of shuffled numbe
 
 You'll go through all five stages of grief 
 
-1. Denial: "this is easy!", 
-2. Anger: "WHY WON'T IT SORT?!", 
-3. Bargaining: "maybe 10,000 operations is fine?", 
-4. Depression: "I'll never optimize this", 
-5. Acceptance: "time to learn actual algorithms"
+1. **Denial:** "this is easy!", 
+2. **Anger:** "WHY WON'T IT SORT?!", 
+3. **Bargaining:** "maybe 10,000 operations is fine?", 
+4. **Depression:** "I'll never optimize this", 
+5. **Acceptance:** "time to learn actual algorithms"
 
 ... before finally emerging victorious with a beautifully optimized sorting algorithm that would make your colleagues shed a single proud tear. _(or not)_
 
@@ -60,6 +62,15 @@ The project emphasizes understanding **algorithmic complexity** (time and space)
 - radix-like approaches
 
 adapted to the stack constraint model—all while adhering to strict coding standards and demonstrating proficiency in low-level C programming concepts including pointer manipulation and modular program design.
+
+<div align="center">
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ4MG0wOHg1ZjZ5NnEzeHRqY3liMnRhbmx0dHAxamFoemxkYTBsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0hJuljU5QiB0S3j2Au/giphy.gif">
+</p></figcaption>
+<p align="center">
+</p>
+</div>
+
 
 --- 
 
