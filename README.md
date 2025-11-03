@@ -31,7 +31,7 @@ _We'll experience the existential crisis of sorting numbers with your hands tied
 
 That means, basically, a puzzle game where you're given a pile of shuffled numbers, two stacks, and told "sort this... but you can only swap the top two, rotate the whole stack like a Ferris wheel, or push stuff between stacks!" It's like solving a Rubik's cube where every move counts and the judges are tracking whether you can sort 500 numbers in under 5,500 moves, because apparently 5,501 moves means you're inefficient and should reconsider your life choices. 
 
-You'll go through all five stages of grief 
+You'll go through all five stages of grief:  
 
 1. **Denial:** "this is easy!", 
 2. **Anger:** "WHY WON'T IT SORT?!", 
